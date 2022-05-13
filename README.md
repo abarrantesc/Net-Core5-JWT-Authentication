@@ -1,5 +1,5 @@
 # Net-Core5-JWT-Authentication
-Web API with JWT token-based Authentication  (user identity, roles, claims, tokens)
+Web API with JWT token-based Authentication  (user identity, roles, claims, tokens) with SQL Database
 
 ## Settings
 #1 - Change the connection string in file appsettings.json
